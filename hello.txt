@@ -3,5 +3,5 @@ hello Git!
 hello Git!
 hello Git!
 hello Git!
-hello Git!	master test merge
 hello Git!	hot-fix test merge
+hello Git!	hot-fix	
